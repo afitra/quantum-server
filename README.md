@@ -1,0 +1,2 @@
+# quantum-server
+server only
